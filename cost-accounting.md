@@ -1,0 +1,18 @@
+# Topic-wise mcqs for *Cost Accounting*
+
+- [Financial Accounting](https://mcqmate.com/topic/financial-accounting) [1876 MCQs]
+- [Financial Management](https://mcqmate.com/topic/financial-management) [749 MCQs]
+- [Fundamentals of Ethics](https://mcqmate.com/topic/fundamentals-of-ethics) [377 MCQs]
+- [Cost and Management Accounting and Financial Management](https://mcqmate.com/topic/cost-and-management-accounting-and-financial-management) [81 MCQs]
+- [Direct Taxation](https://mcqmate.com/topic/direct-taxation) [225 MCQs]
+- [Fundamentals of Accounting](https://mcqmate.com/topic/fundamentals-of-accounting) [229 MCQs]
+- [Fundamentals of Business Mathematics](https://mcqmate.com/topic/fundamentals-of-business-mathematics) [45 MCQs]
+- [Fundamentals of Business Statistics](https://mcqmate.com/topic/fundamentals-of-business-statistics) [65 MCQs]
+- [Fundamentals of Costing](https://mcqmate.com/topic/fundamentals-of-costing) [53 MCQs]
+- [Fundamentals of Economics](https://mcqmate.com/topic/fundamentals-of-economics) [104 MCQs]
+- [Fundamentals of Economics and Management](https://mcqmate.com/topic/fundamentals-of-economics-and-management) [976 MCQs]
+- [Fundamentals of Law](https://mcqmate.com/topic/fundamentals-of-law) [142 MCQs]
+- [Fundamentals of Laws and Ethics](https://mcqmate.com/topic/fundamentals-of-laws-and-ethics) [965 MCQs]
+- [Fundamentals of Management](https://mcqmate.com/topic/fundamentals-of-management) [116 MCQs]
+- [Laws and Ethics](https://mcqmate.com/topic/laws-and-ethics) [228 MCQs]
+- [Operations Management and Strategic Management](https://mcqmate.com/topic/operations-management-and-strategic-management) [124 MCQs]

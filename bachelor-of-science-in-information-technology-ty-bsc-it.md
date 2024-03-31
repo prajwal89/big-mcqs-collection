@@ -1,0 +1,15 @@
+# Topic-wise mcqs for *Bachelor of Science in Information Technology TY (BSc IT)*
+
+- [Software Testing and Quality Assurance \(STQA\)](https://mcqmate.com/topic/software-testing-quality-assurance) [442 MCQs]
+- [Mobile Computing](https://mcqmate.com/topic/mobile-computing) [157 MCQs]
+- [Customer Relationship Management \(CRM\)](https://mcqmate.com/topic/customer-relationship-management-crm) [42 MCQs]
+- [E\-Business](https://mcqmate.com/topic/e-business) [98 MCQs]
+- [Internet Security](https://mcqmate.com/topic/internet-security) [90 MCQs]
+- [Multimedia Technology](https://mcqmate.com/topic/multimedia-technology) [94 MCQs]
+- [Unified Modeling Language \(UML\)](https://mcqmate.com/topic/unified-modeling-language-uml) [55 MCQs]
+- [Wireless Network](https://mcqmate.com/topic/wireless-network) [50 MCQs]
+- [Geographic Information System \(GIS\)](https://mcqmate.com/topic/geographic-information-system-gis) [9 MCQs]
+- [IT Service Management](https://mcqmate.com/topic/it-service-management) [10 MCQs]
+- [Security in Computing](https://mcqmate.com/topic/security-in-computing) [8 MCQs]
+- [Python](https://mcqmate.com/topic/python) [10 MCQs]
+- [Python Programming](https://mcqmate.com/topic/python-programming) [49 MCQs]

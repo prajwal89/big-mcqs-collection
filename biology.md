@@ -1,0 +1,15 @@
+# Topic-wise mcqs for *Biology*
+
+- [Gynecology](https://mcqmate.com/topic/gynecology) [183 MCQs]
+- [Obstetrics](https://mcqmate.com/topic/obstetrics) [70 MCQs]
+- [Anaesthetics](https://mcqmate.com/topic/anaesthetics) [21 MCQs]
+- [Crisis Intervention](https://mcqmate.com/topic/crisis-intervention) [25 MCQs]
+- [Dermatology and Wounds](https://mcqmate.com/topic/dermatology-and-wounds) [43 MCQs]
+- [Endocrinology](https://mcqmate.com/topic/endocrinology) [23 MCQs]
+- [Fluids and Electrolytes](https://mcqmate.com/topic/fluids-and-electrolytes) [33 MCQs]
+- [Neurological](https://mcqmate.com/topic/neurological) [63 MCQs]
+- [Obstetrics and Gynaecology \(O & G\)](https://mcqmate.com/topic/obstetrics-and-gynaecology-o-g) [25 MCQs]
+- [Pathology](https://mcqmate.com/topic/pathology) [136 MCQs]
+- [Pharmacological Principles](https://mcqmate.com/topic/pharmacological-principles) [40 MCQs]
+- [Pharmacology](https://mcqmate.com/topic/pharmacology) [143 MCQs]
+- [Physiology](https://mcqmate.com/topic/physiology) [740 MCQs]

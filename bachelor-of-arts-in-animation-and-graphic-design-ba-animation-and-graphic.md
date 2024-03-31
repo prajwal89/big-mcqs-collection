@@ -1,0 +1,15 @@
+# Topic-wise mcqs for *Bachelor of Arts in Animation and Graphic Design (BA Animation and Graphic)*
+
+- [Introduction to Motion Graphics](https://mcqmate.com/topic/introduction-to-motion-graphics) [44 MCQs]
+- [Multimedia Designing and Authoring](https://mcqmate.com/topic/multimedia-designing-and-authoring) [74 MCQs]
+- [Exercises in Graphics and Animation](https://mcqmate.com/topic/exercises-in-graphics-and-animation) [50 MCQs]
+- [Final Exercise 1 Degree Animation Film \(2D,3D\) Final Exercise 2 Degree video Film,Interactive Media](https://mcqmate.com/topic/final-exercise-1-degree-animation-film-2d3d-final-exercise-2-degree-video-filminteractive-media) [85 MCQs]
+- [Graphic Synchronized Visual Image Editing](https://mcqmate.com/topic/graphic-synchronized-visual-image-editing) [49 MCQs]
+- [Graphics and Animation in Advertising](https://mcqmate.com/topic/graphics-and-animation-in-advertising) [49 MCQs]
+- [Introduction to Multimedia](https://mcqmate.com/topic/introduction-to-multimedia) [33 MCQs]
+- [Introduction to Online Media](https://mcqmate.com/topic/introduction-to-online-media) [49 MCQs]
+- [Introduction to Sound Design](https://mcqmate.com/topic/introduction-to-sound-design) [39 MCQs]
+- [Introduction to Visual Languages](https://mcqmate.com/topic/introduction-to-visual-languages) [38 MCQs]
+- [Introduction to Web Programming](https://mcqmate.com/topic/introduction-to-web-programming) [42 MCQs]
+- [Multi Camera Production Online and Offline](https://mcqmate.com/topic/multi-camera-production-online-and-offline) [67 MCQs]
+- [Still Photography](https://mcqmate.com/topic/still-photography) [55 MCQs]

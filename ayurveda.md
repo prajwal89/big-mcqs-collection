@@ -1,0 +1,16 @@
+# Topic-wise mcqs for *Ayurveda*
+
+- [Kaumarbhritya](https://mcqmate.com/topic/kaumarbhritya) [618 MCQs]
+- [Kayachikitsa](https://mcqmate.com/topic/kayachikitsa) [870 MCQs]
+- [Kriya Sharir](https://mcqmate.com/topic/kriya-sharir) [621 MCQs]
+- [Panchakarma](https://mcqmate.com/topic/panchakarma) [625 MCQs]
+- [Rachana Sharir](https://mcqmate.com/topic/rachana-sharir) [625 MCQs]
+- [Shalya Tantra](https://mcqmate.com/topic/shalya-tantra) [625 MCQs]
+- [Dravyaguna Vigyan](https://mcqmate.com/topic/dravyaguna-vigyan) [616 MCQs]
+- [Rasashastra Bhaishajyakalpana](https://mcqmate.com/topic/rasashastra-bhaishajyakalpana) [497 MCQs]
+- [Roganidan Evam Vikriti Vigyana](https://mcqmate.com/topic/roganidan-evam-vikriti-vigyana) [622 MCQs]
+- [Samhita and Basic Principles](https://mcqmate.com/topic/samhita-and-basic-principles) [725 MCQs]
+- [Shalakya Tantra](https://mcqmate.com/topic/shalakya-tantra) [624 MCQs]
+- [Swasthavritta](https://mcqmate.com/topic/swasthavritta) [498 MCQs]
+- [Agadtantra](https://mcqmate.com/topic/agadtantra) [413 MCQs]
+- [Prasutitantra and Striroga](https://mcqmate.com/topic/prasutitantra-and-striroga) [673 MCQs]
