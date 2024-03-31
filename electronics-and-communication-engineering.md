@@ -1,6 +1,6 @@
 # Topic-wise mcqs for *Electronics and Communication Engineering*
 
-- [Data Structure and Algorithms \(DSA\)](https://mcqmate.com/topic/data-structure-and-algorithms) [334 MCQs]
+- [Data Structure and Algorithms \(DSA\)](https://mcqmate.com/topic/data-structure-and-algorithms) [344 MCQs]
 - [Computer Graphics](https://mcqmate.com/topic/computer-graphics) [650 MCQs]
 - [Total Quality Management \(TQM\)](https://mcqmate.com/topic/total-quality-management) [519 MCQs]
 - [Electronic Devices and Circuits](https://mcqmate.com/topic/electronic-devices-and-circuits) [308 MCQs]

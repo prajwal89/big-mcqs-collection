@@ -20,7 +20,7 @@
 - [History of Human Rights](https://mcqmate.com/topic/history-of-human-rights) [60 MCQs]
 - [History of Human Rights Movements](https://mcqmate.com/topic/history-of-human-rights-movements) [237 MCQs]
 - [History of Journalism in India](https://mcqmate.com/topic/history-of-journalism-in-india) [240 MCQs]
-- [History of Medieval India](https://mcqmate.com/topic/history-of-medieval-india) [116 MCQs]
+- [History of Medieval India](https://mcqmate.com/topic/history-of-medieval-india) [316 MCQs]
 - [History of the Early World](https://mcqmate.com/topic/history-of-the-early-world) [98 MCQs]
 - [History of the Medieval World](https://mcqmate.com/topic/history-of-the-medieval-world) [95 MCQs]
 - [History of the Modern India](https://mcqmate.com/topic/history-of-the-modern-india) [138 MCQs]

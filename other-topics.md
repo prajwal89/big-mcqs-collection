@@ -77,6 +77,6 @@
 - [History, Culture and Civilization](https://mcqmate.com/topic/history-culture-and-civilization) [145 MCQs]
 - [Biology\-Physics\-Chemistry \(GK\)](https://mcqmate.com/topic/biology-physics-chemistry-gk) [297 MCQs]
 - [Graphics and AutoCAD](https://mcqmate.com/topic/graphics-and-autocad) [34 MCQs]
-- [A Level Physics](https://mcqmate.com/topic/a-level-physics) [667 MCQs]
+- [A Level Physics](https://mcqmate.com/topic/a-level-physics) [668 MCQs]
 - [Important Questions Repeated in MD Exams](https://mcqmate.com/topic/important-questions-repeated-in-md-exams) [400 MCQs]
 - [Upper Limb](https://mcqmate.com/topic/upper-limb) [200 MCQs]

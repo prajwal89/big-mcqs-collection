@@ -1,6 +1,6 @@
 # Topic-wise mcqs for *General Knowledge (GK)*
 
-- [Goods and Services Tax \(GST\)](https://mcqmate.com/topic/goods-and-services-tax-gst) [202 MCQs]
+- [Goods and Services Tax \(GST\)](https://mcqmate.com/topic/goods-and-services-tax-gst) [201 MCQs]
 - [Indian Polity and Constitution](https://mcqmate.com/topic/indian-polity-and-constitution) [1761 MCQs]
 - [World Geography](https://mcqmate.com/topic/world-geography) [1576 MCQs]
 - [General Science](https://mcqmate.com/topic/general-science) [576 MCQs]

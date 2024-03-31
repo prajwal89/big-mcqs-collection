@@ -5,4 +5,4 @@
 - [Software Engineering](https://mcqmate.com/topic/software-engineering) [963 MCQs]
 - [Unix Operating System](https://mcqmate.com/topic/unix-operating-system) [82 MCQs]
 - [Web Fundamental](https://mcqmate.com/topic/web-fundamental) [83 MCQs]
-- [C Programming Basic](https://mcqmate.com/topic/c-programming-basic) [48 MCQs]
+- [C Programming Basic](https://mcqmate.com/topic/c-programming-basic) [46 MCQs]

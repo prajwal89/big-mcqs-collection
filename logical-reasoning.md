@@ -1,3 +1,4 @@
 # Topic-wise mcqs for *Logical Reasoning*
 
-- [Analogies](https://mcqmate.com/topic/analogies) [5 MCQs]
+- [Number Series](https://mcqmate.com/topic/number-series) [12 MCQs]
+- [Verbal Classification](https://mcqmate.com/topic/verbal-classification) [25 MCQs]

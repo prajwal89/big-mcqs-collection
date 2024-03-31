@@ -20,7 +20,7 @@
 - [Theory of Mechanics](https://mcqmate.com/topic/theory-of-mechanics) [145 MCQs]
 - [Strength of Materials](https://mcqmate.com/topic/strength-of-materials) [873 MCQs]
 - [Unconventional Machine Process \(UMP\)](https://mcqmate.com/topic/unconventional-machine-process) [645 MCQs]
-- [Problem Solving and Python Programming](https://mcqmate.com/topic/problem-solving-and-python-programming) [426 MCQs]
+- [Problem Solving and Python Programming](https://mcqmate.com/topic/problem-solving-and-python-programming) [310 MCQs]
 - [CAD\-CAM and Automation](https://mcqmate.com/topic/cad-cam-and-automation) [467 MCQs]
 - [Dynamics of Machinery](https://mcqmate.com/topic/dynamics-of-machinery) [175 MCQs]
 - [Heat Transfer \(HT\)](https://mcqmate.com/topic/heat-transfer) [876 MCQs]

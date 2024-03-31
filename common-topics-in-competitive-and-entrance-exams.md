@@ -3,7 +3,7 @@
 - [Software Engineering](https://mcqmate.com/topic/software-engineering) [963 MCQs]
 - [Geography of India](https://mcqmate.com/topic/geography-of-india) [96 MCQs]
 - [Parallel Computing](https://mcqmate.com/topic/parallel-computing) [112 MCQs]
-- [Data Structure and Algorithms \(DSA\)](https://mcqmate.com/topic/data-structure-and-algorithms) [334 MCQs]
+- [Data Structure and Algorithms \(DSA\)](https://mcqmate.com/topic/data-structure-and-algorithms) [344 MCQs]
 - [Data Mining and Data Warehouse](https://mcqmate.com/topic/data-mining-and-warehouse) [402 MCQs]
 - [Basics of Database Management System \(DBMS\)](https://mcqmate.com/topic/basics-of-database-management-system-dbms) [159 MCQs]
 - [Computer Awareness](https://mcqmate.com/topic/computer-awareness) [172 MCQs]

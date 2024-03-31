@@ -12,7 +12,7 @@
 - [Press Laws and Ethics](https://mcqmate.com/topic/press-laws-and-ethics) [25 MCQs]
 - [Principles and Practice of Direct Marketing](https://mcqmate.com/topic/principles-and-practice-of-direct-marketing) [25 MCQs]
 - [Media Planning](https://mcqmate.com/topic/media-planning) [307 MCQs]
-- [Consumer Behaviour](https://mcqmate.com/topic/consumer-behaviour) [514 MCQs]
+- [Consumer Behaviour](https://mcqmate.com/topic/consumer-behaviour) [512 MCQs]
 - [Features and Opinion](https://mcqmate.com/topic/features-and-opinion) [120 MCQs]
 - [Advertising in Contemporary Society](https://mcqmate.com/topic/advertising-in-contemporary-society) [299 MCQs]
 - [Brand Building](https://mcqmate.com/topic/brand-building) [123 MCQs]

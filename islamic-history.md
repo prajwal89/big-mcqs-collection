@@ -1,0 +1,16 @@
+# Topic-wise mcqs for *Islamic History*
+
+- [History of Medieval India](https://mcqmate.com/topic/history-of-medieval-india) [316 MCQs]
+- [Arab and Muslim Historiography](https://mcqmate.com/topic/arab-and-muslim-historiography) [200 MCQs]
+- [Contemprary Muslim World](https://mcqmate.com/topic/contemprary-muslim-world) [30 MCQs]
+- [Cultural History of Abbasids](https://mcqmate.com/topic/cultural-history-of-abbasids) [200 MCQs]
+- [Environmental Studies in Islam and Human Rights](https://mcqmate.com/topic/environmental-studies-in-islam-and-human-rights) [199 MCQs]
+- [Islamic Economics and Banking](https://mcqmate.com/topic/islamic-economics-and-banking) [108 MCQs]
+- [Islam in History](https://mcqmate.com/topic/islam-in-history) [200 MCQs]
+- [The Umayyads](https://mcqmate.com/topic/the-umayyads) [200 MCQs]
+- [The Ottomans \(1280 \- 1876\)](https://mcqmate.com/topic/the-ottomans-1280-1876) [198 MCQs]
+- [The Glorious Caliphate](https://mcqmate.com/topic/the-glorious-caliphate) [200 MCQs]
+- [Political History of Abbasids](https://mcqmate.com/topic/political-history-of-abbasids) [199 MCQs]
+- [Political History of West Asia \(19th and 20th Centuries\)](https://mcqmate.com/topic/political-history-of-west-asia-19th-and-20th-centuries) [200 MCQs]
+- [Kerala Muslims \- History and Culture](https://mcqmate.com/topic/kerala-muslims-history-and-culture) [198 MCQs]
+- [Islamic Economics and Finance](https://mcqmate.com/topic/islamic-economics-and-finance) [200 MCQs]

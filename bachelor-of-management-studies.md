@@ -11,4 +11,3 @@
 - [Project Management](https://mcqmate.com/topic/project-management) [326 MCQs]
 - [Strategic Financial Management](https://mcqmate.com/topic/strategic-financial-management) [144 MCQs]
 - [Export Marketing](https://mcqmate.com/topic/export-marketing) [130 MCQs]
-- [Quantitative Methods for Economic Analysis 1](https://mcqmate.com/topic/quantitative-methods-for-economic-analysis-1) [173 MCQs]

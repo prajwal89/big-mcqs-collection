@@ -31,6 +31,7 @@
 - [Modern Banking and Insurance](https://mcqmate.com/topic/modern-banking-and-insurance) [95 MCQs]
 - [Modern Indian History \(1857 to the present\)](https://mcqmate.com/topic/modern-indian-history-1857-to-the-present) [161 MCQs]
 - [Political Ideas, Concepts and Ideologies](https://mcqmate.com/topic/political-ideas-concepts-and-ideologies) [189 MCQs]
+- [Quantitative Methods for Economic Analysis 1](https://mcqmate.com/topic/quantitative-methods-for-economic-analysis-1) [173 MCQs]
 - [The Political Economy of Development and Planing](https://mcqmate.com/topic/the-political-economy-of-development-and-planing) [39 MCQs]
 - [Indian Constitution And Politics 1](https://mcqmate.com/topic/indian-constitution-and-politics-1) [166 MCQs]
 - [Indian Constitution And Politics 2](https://mcqmate.com/topic/indian-constitution-and-politics-2) [193 MCQs]

@@ -2,7 +2,7 @@
 
 - [Software Testing](https://mcqmate.com/topic/software-testing) [346 MCQs]
 - [Theory of Computation](https://mcqmate.com/topic/theory-of-computation) [173 MCQs]
-- [Java Programming](https://mcqmate.com/topic/java-programming) [365 MCQs]
+- [Java Programming](https://mcqmate.com/topic/java-programming) [610 MCQs]
 - [Advanced Database Management Systems \(ADBMS\)](https://mcqmate.com/topic/advanced-database-management-systems) [157 MCQs]
 - [C\# Programming](https://mcqmate.com/topic/c-programming) [156 MCQs]
 - [Computer Graphics \(for MCA\)](https://mcqmate.com/topic/computer-graphics-for-mca) [190 MCQs]

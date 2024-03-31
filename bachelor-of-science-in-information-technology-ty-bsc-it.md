@@ -1,7 +1,7 @@
 # Topic-wise mcqs for *Bachelor of Science in Information Technology TY (BSc IT)*
 
 - [Software Testing and Quality Assurance \(STQA\)](https://mcqmate.com/topic/software-testing-quality-assurance) [442 MCQs]
-- [Mobile Computing](https://mcqmate.com/topic/mobile-computing) [157 MCQs]
+- [Mobile Computing](https://mcqmate.com/topic/mobile-computing) [100 MCQs]
 - [Customer Relationship Management \(CRM\)](https://mcqmate.com/topic/customer-relationship-management-crm) [42 MCQs]
 - [E\-Business](https://mcqmate.com/topic/e-business) [98 MCQs]
 - [Internet Security](https://mcqmate.com/topic/internet-security) [90 MCQs]
